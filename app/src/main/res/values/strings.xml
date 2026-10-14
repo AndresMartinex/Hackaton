@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hackaton</string>
+    <string name="volver">Volver</string>
+    <string name="abrir_camara">Abrir cámara</string>
 </resources>
